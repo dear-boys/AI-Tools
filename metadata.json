@@ -1,0 +1,9 @@
+{
+  "name": "Gemini AI Toolkit",
+  "description": "A comprehensive web application showcasing a wide range of Gemini API features, including image and video generation, real-time conversations, chat, grounding, and advanced analysis tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
